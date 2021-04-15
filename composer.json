@@ -55,7 +55,7 @@
         "ext-zlib": "*",
         "psr/simple-cache": "^1.0",
         "markbaker/complex": "^1.4",
-        "markbaker/matrix": "^1.1"
+        "markbaker/matrix": "^1.1 || ^2.0"
     },
     "require-dev": {
         "tecnickcom/tcpdf": "^6.2",
